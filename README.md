@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Catatauexe!
+# 👋  Sou o Catatauexe!
 
 💻 **Estudante de Ciência da Computação** | 🚀 Tecnologia | 🎮 Projetos | 📚 Aprendizado
 
@@ -52,9 +52,9 @@ Cada projeto representa uma etapa da minha evolução e dos conhecimentos que ve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=catatauexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catatauexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catatauexe&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catatauexe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
