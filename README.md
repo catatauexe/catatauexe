@@ -52,7 +52,7 @@ Cada projeto representa uma etapa da minha evolução e dos conhecimentos que ve
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catatauexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white?username=catatauexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catatauexe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
