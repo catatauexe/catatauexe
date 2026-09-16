@@ -14,12 +14,7 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, estudos 
 
 <div align="center">
 
-
-
-
-
-
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 
 </div>
 
@@ -39,9 +34,11 @@ Cada projeto representa uma etapa da minha evolução e dos conhecimentos que ve
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=catatauexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=catatauexe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catatauexe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catatauexe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
 </div>
 
